@@ -1,3 +1,5 @@
+Now, I m testing the pull command
+
 this is a test fille for commit
 <<<<<<< HEAD
 Now I modified the file for commit from local machine to github
