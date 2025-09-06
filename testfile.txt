@@ -1,3 +1,7 @@
 this is a test fille for commit
+<<<<<<< HEAD
 Now I modified the file for commit from local machine to github
 it's alexis test ssh
+=======
+verify bssh working
+>>>>>>> 4e50cf325436f692cc2664226ecc3dd19ff3dfeb
